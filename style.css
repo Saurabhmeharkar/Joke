@@ -12,7 +12,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: url("/3/2.jpg");
+    background-image: url("/2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -61,6 +61,6 @@ h3 {
 
 @media(max-width: 500px){
     body{
-    background-image: url("/3/1.jpg");
+    background-image: url("1.jpg");
     }
 }
